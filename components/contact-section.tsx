@@ -7,23 +7,23 @@ import Link from "next/link";
 const contactOptions = [
   {
     title: "Email",
-    value: "tejasva@example.com",
+    value: "tejasvamidha@gmail.com",
     description: "Best for internship opportunities and introductions.",
-    href: "mailto:tejasva@example.com",
+    href: "mailto:tejasvamidha@gmail.com",
     icon: Mail,
   },
   {
     title: "LinkedIn",
     value: "Connect professionally",
     description: "Let’s connect and talk about engineering opportunities.",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/tejasva-midha-736849431/",
     icon: Linkedin,
   },
   {
     title: "GitHub",
     value: "View my code",
     description: "Explore projects, experiments, and engineering work.",
-    href: "https://github.com/",
+    href: "https://github.com/tejasvamidha-lang",
     icon: Github,
   },
 ];
