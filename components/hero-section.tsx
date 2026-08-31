@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, type Variants } from "framer-motion";
 import {
   ArrowRight,
   BriefcaseBusiness,
@@ -17,7 +17,7 @@ import Link from "next/link";
 const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/",
+    href: "https://github.com/tejasvamidha-lang",
     icon: Github,
   },
   {
@@ -27,7 +27,7 @@ const socialLinks = [
   },
   {
     label: "Email",
-    href: "mailto:tejasva@example.com",
+    href: "mailto:tejasvamidha@gmail.com",
     icon: Mail,
   },
 ];
@@ -55,16 +55,17 @@ const tractionCards = [
   },
 ];
 
-const containerVariants = {
-  hidden: {},
+const containerVariants: Variants = {
+  hidden: { opacity: 0 },
   show: {
+    opacity: 1,
     transition: {
       staggerChildren: 0.08,
     },
   },
 };
 
-const itemVariants = {
+const itemVariants: Variants = {
   hidden: {
     opacity: 0,
     y: 20,
