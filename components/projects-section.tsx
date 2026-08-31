@@ -36,7 +36,7 @@ const projects: Project[] = [
       "Added operational views for tracking orders, inventory, and revenue activity.",
     ],
     stack: ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
-    github: "https://github.com/",
+    github: "https://github.com/tejasvamidha-lang/quickmart.git",
     demo: "#",
   },
   {
