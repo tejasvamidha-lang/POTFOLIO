@@ -37,7 +37,7 @@ const projects: Project[] = [
     ],
     stack: ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
     github: "https://github.com/tejasvamidha-lang/quickmart.git",
-    demo: "#",
+    demo: "https://vitmart-drab.vercel.app/",
   },
   {
     title: "Automated Trading Bots",
