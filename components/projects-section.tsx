@@ -81,8 +81,8 @@ const projects: Project[] = [
       "Created an intuitive workflow for tracking balances across groups.",
     ],
     stack: ["React", "TypeScript", "Node.js", "MongoDB"],
-    github: "https://github.com/",
-    demo: "#",
+    github: "https://github.com/tejasvamidha-lang/splitfree",
+    demo: "https://splitfree-sand.vercel.app/",
   },
 ];
 
