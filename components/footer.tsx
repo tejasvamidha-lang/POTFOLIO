@@ -15,7 +15,7 @@ export default function Footer() {
 
         <div className="flex items-center gap-2">
           <Link
-            href="https://github.com/"
+            href="https://github.com/tejasvamidha-lang"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -25,7 +25,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/tejasva-midha-736849431/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -35,7 +35,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="mailto:tejasva@example.com"
+            href="mailto:tejasvamidha@gmail.com"
             aria-label="Email"
             className="rounded-lg p-2 text-zinc-500 transition-colors hover:bg-zinc-900 hover:text-zinc-100"
           >

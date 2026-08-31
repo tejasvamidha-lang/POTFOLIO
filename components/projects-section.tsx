@@ -66,7 +66,7 @@ const projects: Project[] = [
       "Connected operational workflows to reduce manual administrative work.",
     ],
     stack: ["n8n", "Node.js", "PostgreSQL", "REST APIs"],
-    github: "https://github.com/",
+    github: "https://github.com/tejasvamidha-lang/gym-automation-.git",
     demo: "#",
   },
   {
